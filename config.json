@@ -1,0 +1,15 @@
+{
+  "starlight": {
+    "user": "USER",
+    "password": "PASS"
+  },
+  "insulta": {
+    "avoid": []
+  },
+  "tiempo": {
+    "api_key": "API_KEY"
+  },
+  "wolfram": {
+    "api_key": "API_KEY"
+  }
+}
